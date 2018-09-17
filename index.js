@@ -23,4 +23,4 @@ app.use(bodyParser.urlencoded({
 
 app.use('/products', product);
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+app.listen(port, () => console.log(`Node.js and MongoDB CRUD app is listening on port ${port}!`))
