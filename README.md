@@ -64,4 +64,4 @@ URL : URL : http://localhost:3000/products/[PRODUCT-ID]
 ```
 
 ### Congrats !!! You are done...
-If your still facing any problem feel free to contact with me at mdhelaluddin.ctg.bd@gmail.com or you may create issue. Thanks. 
+If you are still facing any problem feel free to contact with me at mdhelaluddin.ctg.bd@gmail.com or you may create issue.  I will try to response back to you asap. Thanks. 
