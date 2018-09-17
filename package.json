@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mongodb-crud-api",
+  "version": "1.0.0",
+  "description": "Simple CRUD API using Nodejs and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdhelaluddin-ctg-bd/nodejs-mongodb-crud-api.git"
+  },
+  "author": "Md Helal Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdhelaluddin-ctg-bd/nodejs-mongodb-crud-api/issues"
+  },
+  "homepage": "https://github.com/mdhelaluddin-ctg-bd/nodejs-mongodb-crud-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.15"
+  }
+}
